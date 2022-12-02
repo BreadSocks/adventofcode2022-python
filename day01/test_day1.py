@@ -1,5 +1,3 @@
-import os
-
 from conftest import example, puzzle_input
 from day01.day1 import part1, part2
 
