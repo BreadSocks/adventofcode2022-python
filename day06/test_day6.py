@@ -1,5 +1,3 @@
-import pytest
-
 from conftest import example, puzzle_input, example2, example3, example4, example5
 from day06.day6 import part1, part2
 
